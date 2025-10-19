@@ -34,6 +34,20 @@ During development, two key strategic decisions were made:
 - Node.js v18+
 - Git
 
+<img width="1094" height="945" alt="Screenshot 2025-10-19 153818" src="https://github.com/user-attachments/assets/f835a57d-fc4e-494f-bb3f-cb6b0b36686b" />
+<br><br><br><br><br><br>
+
+<img width="933" height="877" alt="Screenshot 2025-10-19 153825" src="https://github.com/user-attachments/assets/5bfc985c-e6e2-48f4-9414-af57b98ece2c" />
+<br><br><br><br><br><br>
+
+<img width="1919" height="1079" alt="Screenshot 2025-10-19 153757" src="https://github.com/user-attachments/assets/117775f3-94b1-47eb-a3da-91d4c6262ffe" />
+<br><br><br><br>
+
+<img width="1499" height="801" alt="image" src="https://github.com/user-attachments/assets/67beef93-b591-455c-83de-6153fffe8a01" />
+##The Project was not deployed because of memory limit for free account on render.
+
+
+
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/RTXArora/AI-Powered-Product-Recommendation-Web-App.git
@@ -79,4 +93,6 @@ Start the frontend development server:
 Bash
 
 # The server will run on http://localhost:5173
+
 npm run dev
+
